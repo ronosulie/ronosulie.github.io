@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronosulie.github.io/sitemap
+Sitemap: https://ronosulie.github.io/app/sitemap
+Sitemap: https://ronosulie.github.io/assets/sitemap
+Sitemap: https://ronosulie.github.io/css/sitemap
+Sitemap: https://ronosulie.github.io/includes/sitemap
+Sitemap: https://ronosulie.github.io/item/sitemap
+Sitemap: https://ronosulie.github.io/src/sitemap
